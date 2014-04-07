@@ -1,0 +1,9 @@
+C:\Code\MistPositioningSystem\MistPositioningSystem\bin\Debug\MistPositioningSystem.exe.config
+C:\Code\MistPositioningSystem\MistPositioningSystem\obj\Debug\MistPositioningSystem.csprojResolveAssemblyReference.cache
+C:\Code\MistPositioningSystem\MistPositioningSystem\obj\Debug\MistPositioningSystem.Form1.resources
+C:\Code\MistPositioningSystem\MistPositioningSystem\obj\Debug\MistPositioningSystem.Properties.Resources.resources
+C:\Code\MistPositioningSystem\MistPositioningSystem\obj\Debug\MistPositioningSystem.csproj.GenerateResource.Cache
+C:\Code\MistPositioningSystem\MistPositioningSystem\bin\Debug\MistPositioningSystem.exe
+C:\Code\MistPositioningSystem\MistPositioningSystem\bin\Debug\MistPositioningSystem.pdb
+C:\Code\MistPositioningSystem\MistPositioningSystem\obj\Debug\MistPositioningSystem.exe
+C:\Code\MistPositioningSystem\MistPositioningSystem\obj\Debug\MistPositioningSystem.pdb
