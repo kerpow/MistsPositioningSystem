@@ -33,7 +33,7 @@ namespace MistPositioningSystem
                     data["friendly"] = report.GroupAllegiance == AhhhDragonsReport.PlayerGroupAllegiance.Friend ? "1" : "0";
                     data["size"] = ((int)report.GroupSize).ToString();
 
-                    var response = wb.UploadValues("http://localhost:1234/db/wvw.php", "POST", data);
+                    var response = wb.UploadValues("http://ahhhdragons.com/db/wvw.php", "POST", data);
                     System.Diagnostics.Debug.WriteLine(Encoding.ASCII.GetString(response));
 
                 }
