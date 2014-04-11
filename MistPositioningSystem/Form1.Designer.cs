@@ -51,9 +51,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(9, 11);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(79, 13);
+            this.label1.Size = new System.Drawing.Size(72, 13);
             this.label1.TabIndex = 1;
-            this.label1.Text = "MPS Password";
+            this.label1.Text = "MPS Channel";
             // 
             // tmrAutoReport
             // 
